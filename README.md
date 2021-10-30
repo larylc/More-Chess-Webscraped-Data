@@ -20,7 +20,7 @@ Descriptions for updated data sets:
 
 ## Sources
 
-You can visit the ["Grandmaster B-Days and B-Dates" project](https://larylc.github.io/chess_birthday_project/) original birthplace and city of birth sources. 
+You can visit the ["Grandmaster B-Days and B-Dates" project](https://larylc.github.io/chess_birthday_project/) for the original birthplace and city of birth sources. 
 
 The geographic data was gathered from two main sources Google and the Simplemaps website. 
 
