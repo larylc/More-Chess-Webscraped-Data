@@ -19,8 +19,21 @@ Descriptions for updated data sets:
 
 
 ## Sources
-The geographic data was gathered from two main sources Google and Simple Maps
-[](https://simplemaps.com/data/us-cities)
-[](https://simplemaps.com/data/world-cities)
-[](https://developers.google.com/public-data/docs/canonical/states_csv)
-[](https://developers.google.com/public-data/docs/canonical/countries_csv)
+
+You can visit the ["Grandmaster B-Days and B-Dates" project](https://larylc.github.io/chess_birthday_project/) original birthplace and city of birth sources. 
+
+The geographic data was gathered from two main sources Google and the Simplemaps website. 
+
+I could only download the free version of the US cities and world cities databases:
+* [US cities](https://simplemaps.com/data/us-cities)
+* [World Cities](https://simplemaps.com/data/world-cities)
+
+From Google's Develeper site I got US state and country data:
+* [US states](https://developers.google.com/public-data/docs/canonical/states_csv)
+* [Countries](https://developers.google.com/public-data/docs/canonical/countries_csv)
+
+Because Google does not allow you to scrape their geographic data, I had to manually get the last 246 by manually copy and pasting google searches. 
+
+
+
+
