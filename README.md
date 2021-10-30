@@ -36,4 +36,9 @@ Because Google does not allow you to scrape their geographic data, I had to manu
 
 
 
+## Contact Me
+
+|**Contact Method**  |                          |
+| -------------------| -------------------------|
+| Professional Email | cedric.lary1@gmail.com   |
 
