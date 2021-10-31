@@ -8,7 +8,7 @@ The `top_grandmaster_ratings_before_2000.csv` was produced from the [Finding the
 
 The `all_grandmaster_bdates_bplaces_updated.csv` was created seperately. The methods used to acquire the geographic locations will not be shared anywhere for a few reasons. First, the methods for acquiring the data followed a similar procedure to 3 first data sets in terms of using string distances and fuzzyjoins to combine the original **all_grandmaster_bdates_bplaces.csv** with other geographic data sets. Second, although most of the geographic data was available online for free, 246 cities needed to be manually inserted into the dataset to complete it. Finally, some corrections were made to the original data set to accomodate these updates. 
 
-The `all_prodigies.csv` was used to make [Pathway to Prodigy App]. It uses data from the `all_grandmaster_bdates_bplaces_updated.csv` , `top_grandmaster_ratings_before_2000.csv`, [`top_grandmasters_sept.csv`](https://github.com/larylc/Chess-Webscraping-Projects/blob/main/top_grandmasters_sept.csv),  and [`masters_table_2500s_sept.csv`](https://github.com/larylc/Chess-Webscraping-Projects/blob/main/masters_table_2500s_sept.csv).
+The `all_prodigies.csv` was used to make [Pathway to Prodigy App](https://loganlary.shinyapps.io/prodigies_app/?_ga=2.15136438.103236738.1633010249-569369622.1613318148). It uses data from the `all_grandmaster_bdates_bplaces_updated.csv` , `top_grandmaster_ratings_before_2000.csv`, [`top_grandmasters_sept.csv`](https://github.com/larylc/Chess-Webscraping-Projects/blob/main/top_grandmasters_sept.csv),  and [`masters_table_2500s_sept.csv`](https://github.com/larylc/Chess-Webscraping-Projects/blob/main/masters_table_2500s_sept.csv).
 
 
 ## Data 
