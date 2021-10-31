@@ -13,19 +13,25 @@ The `all_prodigies.csv` was used to make [Pathway to Prodigy App]. It uses data 
 
 ## Data 
 
-Descriptions for original data sets:
+Descriptions for original birthdate and birthplace data sets:
 * [all_grandmaster_bdates_bplaces.csv](https://github.com/larylc/More-Chess-Webscraped-Data/blob/main/all_grandmaster_bdates_bplaces.csv): Data set of all grandmaster `birthdates` and `city of birth` information as of September 2021.
 * [rest_of_grandmaster_bdates_bplaces.csv](https://github.com/larylc/More-Chess-Webscraped-Data/blob/main/rest_of_grandmaster_bdates_bplaces.csv): Data set of grandmaster `birthdates` and `city of birth` information for chess players under 2600 as of September 2021.
-* [top_grandmaster_ratings_before_2000](https://github.com/larylc/More-Chess-Webscraped-Data/blob/main/top_grandmaster_ratings_before_2000.csv): Data set of grandmaster `birthdates` and `city of birth` information for chess players over 2600 as of September 2021.
+* [top_grandmaster_bdates_bplaces.csv](https://github.com/larylc/More-Chess-Webscraped-Data/blob/main/top_grandmaster_ratings_before_2000.csv): Data set of grandmaster `birthdates` and `city of birth` information for chess players over 2600 as of September 2021.
 
 
-Descriptions for updated data sets:
+Description for rating record data set:
+* [top_grandmaster_ratings_before_2000](https://github.com/larylc/More-Chess-Webscraped-Data/blob/main/top_grandmaster_ratings_before_2000.csv): Data set of top grandmaster monthly classical ratings before January of 2000.
+
+Description for updated birthdate and birthplace data set:
 * [all_grandmaster_bdates_bplaces_updated.csv](https://github.com/larylc/More-Chess-Webscraped-Data/blob/main/all_grandmaster_bdates_bplaces_updated.csv): Data set of grandmaster `birthdates` and `city of birth` information updated so that it includes `longitude`, `latitude` and `country of birth` information.
 
 
 ## Sources
 
 You can visit the [Grandmaster B-Days and B-Dates project](https://larylc.github.io/chess_birthday_project/) for the original birthplace and city of birth sources. 
+
+You can visit the [Finding the Missing Records project](https://larylc.github.io/Independent-Projects-/missing_chess_records.html) for the rating records before 2000. 
+
 
 The geographic data was gathered from two main sources Google and the Simplemaps website. 
 
