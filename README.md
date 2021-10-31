@@ -2,9 +2,14 @@
 
 ## Introduction
 
-This repository is where I will be posting some of the webscraped data sets from my projects. 3 of these data sets were produced from my [Grandmaster B-Days and B-Dates project](https://larylc.github.io/chess_birthday_project/).  
+This repository is where I will be posting some of the webscraped data sets from my projects. The  3 `grandmaster_bdates_bplaces.csv files` were produced from my [Grandmaster B-Days and B-Dates project](https://larylc.github.io/chess_birthday_project/).  
 
-The `all_grandmaster_bdates_bplaces_updated.csv` data set was created seperately. The methods used to acquire the geographic locations will not be shared anywhere for a few reasons. First, the methods for acquiring the data followed a similar procedure to 3 first data sets in terms of using string distances and fuzzyjoins to combine the original **all_grandmaster_bdates_bplaces.csv** with other geographic data sets. Second, although most of the geographic data was available online for free, 246 cities needed to be manually inserted into the dataset to complete it. Finally, some corrections were made to the original data set to accomodate these updates. 
+The `top_grandmaster_ratings_before_2000.csv` was produced from the [Finding the Missing Records project](https://larylc.github.io/Independent-Projects-/missing_chess_records.html). 
+
+The `all_grandmaster_bdates_bplaces_updated.csv` was created seperately. The methods used to acquire the geographic locations will not be shared anywhere for a few reasons. First, the methods for acquiring the data followed a similar procedure to 3 first data sets in terms of using string distances and fuzzyjoins to combine the original **all_grandmaster_bdates_bplaces.csv** with other geographic data sets. Second, although most of the geographic data was available online for free, 246 cities needed to be manually inserted into the dataset to complete it. Finally, some corrections were made to the original data set to accomodate these updates. 
+
+The `all_prodigies.csv` was used to make [Pathway to Prodigy App]. It uses data from the `all_grandmaster_bdates_bplaces_updated.csv` , `top_grandmaster_ratings_before_2000.csv`, [`top_grandmasters_sept.csv`](https://github.com/larylc/Chess-Webscraping-Projects/blob/main/top_grandmasters_sept.csv),  and [`masters_table_2500s_sept.csv`](https://github.com/larylc/Chess-Webscraping-Projects/blob/main/masters_table_2500s_sept.csv).
+
 
 ## Data 
 
