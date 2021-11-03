@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository is where I will be posting some of the webscraped data sets from my projects. The  3 `grandmaster_bdates_bplaces.csv files` were produced from my [Grandmaster B-Days and B-Dates project](https://larylc.github.io/chess_birthday_project/).  
+This repository is where I will be posting some of the webscraped data sets from my projects. The  3 `grandmaster_bdates_bplaces.csv` files were produced from my [Grandmaster B-Days and B-Dates project](https://larylc.github.io/chess_birthday_project/).  
 
 The `top_grandmaster_ratings_before_2000.csv` was produced from the [Finding the Missing Records project](https://larylc.github.io/Independent-Projects-/missing_chess_records.html). 
 
