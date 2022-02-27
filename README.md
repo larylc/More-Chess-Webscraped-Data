@@ -8,6 +8,8 @@ The `all_grandmaster_bdates_bplaces_updated.csv` was created seperately. The met
 
 The `all_prodigies.csv` was used to make [Pathway to Prodigy App](https://loganlary.shinyapps.io/prodigies_app/?_ga=2.15136438.103236738.1633010249-569369622.1613318148). It uses data from the `all_grandmaster_bdates_bplaces_updated.csv` , `top_grandmaster_ratings_before_2000.csv`, [`top_grandmasters_sept.csv`](https://github.com/larylc/Chess-Webscraping-Projects/blob/main/top_grandmasters_sept.csv),  and [`masters_table_2500s_sept.csv`](https://github.com/larylc/Chess-Webscraping-Projects/blob/main/masters_table_2500s_sept.csv).
 
+The `prodigies_with_inc.csv` was used to create a tableau visualization and was made using the `all_prodigies.csv` data.
+
 **Note:** The prodigies datasets were created using data from the [chess webscraping projects](https://github.com/larylc/Chess-Webscraping-Projects]). Make sure to check out the jupiter notebooks for the methods and processing. 
 
 
@@ -27,7 +29,7 @@ Description for updated birthdate and birthplace data set:
 
 Description for prodigies data sets:
 * [all_prodigies.csv](https://github.com/larylc/More-Chess-Webscraped-Data/blob/main/all_prodigies.csv): Data set that contains same information as all_grandmaster_bdates_bplaces_updated accept it is filtered so that only chess prodigies([grandmasters that got their title before a certain age](https://en.wikipedia.org/wiki/Chess_prodigy)) are included. Instead of age 14, I made the cutoff age 17. An **Age** variable for each **Period** was also created.
-* [prodigies_with_inc.csv](https://github.com/larylc/More-Chess-Webscraped-Data/blob/main/prodigies_with_inc.csv): Same thing as **all_prodigies.csv** but it includes the variable **rating_inc** which measures the increase or decrease in classical rating of chess player during each monthly rating supplemant (**Period variable**). 
+* [prodigies_with_inc.csv](https://github.com/larylc/More-Chess-Webscraped-Data/blob/main/prodigies_with_inc.csv): Same thing as `al_prodigies.csv`t it includes the variable **rating_inc** which measures the increase or decrease in classical rating of chess player during each monthly rating supplemant (**Period variable**). 
 
 
 ## Sources
