@@ -51,7 +51,7 @@ From Google's Develeper site I got US states and country data:
 
 Because Google does not allow you to scrape their geographic data, I had to manually get the last 246 by manually copy and pasting google searches. 
 
-For more information about prodigies see this [page](https://en.wikipedia.org/wiki/Chess_prodigy)
+For more information about prodigies see this [page](https://en.wikipedia.org/wiki/Chess_prodigy).
 
 
 
