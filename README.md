@@ -23,10 +23,14 @@ Description for rating record data set:
 Description for updated birthdate and birthplace data set:
 * [all_grandmaster_bdates_bplaces_updated.csv](https://github.com/larylc/More-Chess-Webscraped-Data/blob/main/all_grandmaster_bdates_bplaces_updated.csv): Data set of grandmaster `birthdates` and `city of birth` information updated so that it includes `longitude`, `latitude` and `country of birth` information.
 
+Description for prodigies data sets:
+* [all_prodigies.csv](https://github.com/larylc/More-Chess-Webscraped-Data/blob/main/all_prodigies.csv): Data set that contains same information as all_grandmaster_bdates_bplaces_updated accept it is filtered so that only chess prodigies([grandmasters that got their title before a certain age](https://en.wikipedia.org/wiki/Chess_prodigy)) are included. Instead of age 14, I made the cutoff age 17. An *Age* variable for each *Period* was also created.
+* [prodigies_with_inc.csv](https://github.com/larylc/More-Chess-Webscraped-Data/blob/main/prodigies_with_inc.csv): Same thing as all_prodigies.csv but it includes the variable *rating_inc* which measures the increase or decrease in classical rating of chess player during each monthly rating supplemant (*Period variable*). 
+
 
 ## Sources
 
-You can visit the [Grandmaster B-Days and B-places project](https://larylc.github.io/chess_bdays_bplaces/) for the original birthplace and city of birth sources. 
+You can visit the [Grandmaster B-Days and B-places project](https://larylc.github.io/chess_bdays_bplaces/) for the original birthplace and ity of birth sources. 
 
 You can visit the [Finding the Missing Records project](https://larylc.github.io/Independent-Projects-/missing_chess_records.html) for the rating records before 2000. 
 
@@ -42,6 +46,8 @@ From Google's Develeper site I got US states and country data:
 * [Countries](https://developers.google.com/public-data/docs/canonical/countries_csv)
 
 Because Google does not allow you to scrape their geographic data, I had to manually get the last 246 by manually copy and pasting google searches. 
+
+For more information about prodigies see this [page](https://en.wikipedia.org/wiki/Chess_prodigy)
 
 
 
