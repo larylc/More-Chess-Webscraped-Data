@@ -34,7 +34,7 @@ Description for prodigies data sets:
 
 ## Sources
 
-You can visit the [Grandmaster B-Days and B-places project](https://larylc.github.io/chess_bdays_bplaces/) for the original birthplace and ity of birth sources. 
+You can visit the [Grandmaster B-Days and B-places project](https://larylc.github.io/chess_bdays_bplaces/) for the original birthplace and city of birth sources. 
 
 You can visit the [Finding the Missing Records project](https://larylc.github.io/Independent-Projects-/missing_chess_records.html) for the rating records before 2000. 
 
