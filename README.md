@@ -29,7 +29,7 @@ Description for updated birthdate and birthplace data set:
 
 Description for prodigies data sets:
 * [all_prodigies.csv](https://github.com/larylc/More-Chess-Webscraped-Data/blob/main/all_prodigies.csv): Data set that contains same information as all_grandmaster_bdates_bplaces_updated accept it is filtered so that only chess prodigies([grandmasters that got their title before a certain age](https://en.wikipedia.org/wiki/Chess_prodigy)) are included. Instead of age 14, I made the cutoff age 17. An **Age** variable for each **Period** was also created.
-* [prodigies_with_inc.csv](https://github.com/larylc/More-Chess-Webscraped-Data/blob/main/prodigies_with_inc.csv): Same thing as `al_prodigies.csv`t it includes the variable **rating_inc** which measures the increase or decrease in classical rating of chess player during each monthly rating supplemant (**Period variable**). 
+* [prodigies_with_inc.csv](https://github.com/larylc/More-Chess-Webscraped-Data/blob/main/prodigies_with_inc.csv): Same thing as `all_prodigies.csv`t it includes the variable **rating_inc** which measures the increase or decrease in classical rating of chess player during each monthly rating supplemant (**Period variable**). 
 
 
 ## Sources
