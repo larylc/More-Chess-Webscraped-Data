@@ -45,7 +45,7 @@ I could only download the free version of the US cities and world cities databas
 * [US Cities](https://simplemaps.com/data/us-cities)
 * [World Cities](https://simplemaps.com/data/world-cities)
 
-From Google's Develeper site I got US states and country data:
+From Google's Developer site I got US states and country data:
 * [US States](https://developers.google.com/public-data/docs/canonical/states_csv)
 * [Countries](https://developers.google.com/public-data/docs/canonical/countries_csv)
 
