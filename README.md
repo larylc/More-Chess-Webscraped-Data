@@ -10,7 +10,7 @@ The `all_prodigies.csv` was used to make [Pathway to Prodigy App](https://loganl
 
 The `prodigies_with_inc.csv` was used to create a tableau visualization and was made using the `all_prodigies.csv` data.
 
-**Note:** The prodigies datasets were created using data from the [chess webscraping projects](https://github.com/larylc/Chess-Webscraping-Projects]). Make sure to check out the jupiter notebooks for the methods and processing. 
+**Note:** The prodigies datasets were created using data from the [chess webscraping projects](https://github.com/larylc/Chess-Webscraping-Projects). Make sure to check out the jupiter notebooks for the methods and processing. 
 
 
 ## Data 
